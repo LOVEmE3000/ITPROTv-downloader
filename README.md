@@ -34,4 +34,4 @@ step7:removing or commenting out all lines in cookies.txt that do not start with
       
 step8: At last run the below command in cmd
 
->>>     python driver.py [paste_course_link_here]      
+    python driver.py [paste_course_link_here]      
