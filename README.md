@@ -1,8 +1,8 @@
 # ITPROTv-downloader
 
-![68747470733a2f2f692e696d6775722e636f6d2f695732696c4f442e706e67](https://user-images.githubusercontent.com/89593059/141672884-43fac4e1-f115-47dd-9fc2-5f6e4604dca5.png)
 
 Get cookies.txt - https://bit.ly/GoogleChrome-GetCookiesTxt
+![Capture](https://user-images.githubusercontent.com/89593059/141673036-6b86123d-f564-4f63-a0c9-1f2fca839b14.PNG)
 
 ChromeDriver - http://chromedriver.chromium.org/ 
 Check the virsion of your chrome
