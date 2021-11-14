@@ -1,5 +1,7 @@
 # ITPROTv-downloader
 
+![68747470733a2f2f692e696d6775722e636f6d2f695732696c4f442e706e67](https://user-images.githubusercontent.com/89593059/141672884-43fac4e1-f115-47dd-9fc2-5f6e4604dca5.png)
+
 Get cookies.txt - https://bit.ly/GoogleChrome-GetCookiesTxt
 
 ChromeDriver - http://chromedriver.chromium.org/ 
@@ -26,6 +28,8 @@ step3: Run the below command on command prompt [cmd]. It will check all the depe
 step4: Login to ITProTV and visit the course that you want to download.
 
 step5: Now click on the cookie extension and click export.
+
+![68747470733a2f2f692e696d6775722e636f6d2f36516b563952432e706e67](https://user-images.githubusercontent.com/89593059/141672932-d493d64e-1ddb-4fec-8792-4c5d2888d0be.png)
 
 step6: Rename the downloaded itpro.tv_cookies.txt file to cookies.txt and copy it to main of the cloned repo (ITPROTV-DL-master).
 
