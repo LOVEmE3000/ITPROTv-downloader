@@ -15,3 +15,23 @@ For example:- /usr/bin/chromedriver
 
 Python - https://www.python.org/downloads/
 
+Step1: clone or download the ITPROTV-DL-MASTER
+
+step2:Now  go to download folder  and extract or unzip the ITPROTV-DL-master file, then open command prompt [cmd]
+
+step3: Run the below command on command prompt [cmd]. It will check all the dependencies and requirements.
+
+       pip install -r requirements.txt
+       
+step4: Login to ITProTV and visit the course that you want to download.
+
+step5: Now click on the cookie extension and click export.
+
+step6: Rename the downloaded itpro.tv_cookies.txt file to cookies.txt and copy it to main of the cloned repo (ITPROTV-DL-master).
+
+step7:removing or commenting out all lines in cookies.txt that do not start with .itpro.tv or app.itpro.tv
+      [Comment it by using '#' ] 
+      
+step8: At last run the below command in cmd
+
+>>>     python driver.py [paste_course_link_here]      
